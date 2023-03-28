@@ -1,0 +1,2 @@
+#calcContainer{width:300px;border:2px solid #000;margin:0 auto}#screenInput{height:50px;text-align:right;border:1px solid #ccc;margin-bottom:10px;padding:10px;font-size:24px}#numbers{flex-wrap:wrap;display:flex}#numbers button,#operators button{width:40px;height:40px;border:1px solid #ccc;margin:5px;font-size:24px}#operators{flex-wrap:wrap;margin-bottom:10px;display:flex}#equal,#clear{width:135px;height:70px;margin:5px;font-size:24px}img{width:200px}
+/*# sourceMappingURL=index.e3336115.css.map */
